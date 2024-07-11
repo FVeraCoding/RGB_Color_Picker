@@ -33,15 +33,7 @@ Para instalar y ejecutar este proyecto localmente, sigue estos pasos:
     ```bash
     cd tu-repositorio
     ```
-3. Instala las dependencias
-    ```bash
-    npm install
-    ```
-4. Ejecuta Gulp para compilar Sass y lanzar un servidor local
-    ```bash
-    gulp
-    ```
-5. Abre `index.html` en tu navegador preferido
+3. Abre `index.html` en tu navegador preferido
 
 ## Uso
 
